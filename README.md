@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=someguyorca" alt="someguyorca" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Javascript, C, Ruby**
+- 🌱 I’m currently learning **Python, Javascript, VB.NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SomeGuyOrca](https://github.com/SomeGuyOrca)
 
