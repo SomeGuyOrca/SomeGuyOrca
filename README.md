@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=someguyorca" alt="someguyorca" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Javascript, VB.NET**
+- 🌱 I’m currently learning **Python, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SomeGuyOrca](https://github.com/SomeGuyOrca)
 
-- 💬 Ask me about **Just Don't. Or maybe some BATCH**
+- 💬 Ask me about **Just don't I'm dumb.**
 
-- 📫 How to reach me **Discord-Orca#0349**
+- 📫 How to reach me **Discord: toastednapoleon**
 
 - ⚡ Fun fact **I am entirely not amazing at coding, but I still try my best :D**
 
